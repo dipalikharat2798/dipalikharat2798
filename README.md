@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipalikharat2798&label=Profile%20views&color=0e75b6&style=flat" alt="dipalikharat2798" /> </p>
 
-- 🔭 I’m currently working on **Android**
+- 🔭 I’m currently working on **ReactJs**
 
-- 🌱 I’m currently learning **Android Jetpack, Kotlin language, Cloud service**
+- 🌱 I’m currently learning **ReactJs,Android Jetpack, Kotlin language, Cloud service**
 
-- 💬 Ask me about **Android, Angular, Java, Figma**
+- 💬 Ask me about **ReactJs,Android, Angular, Java, Figma**
 
 - 📫 How to reach me **dipalikharat2798@gmail.com**
 
